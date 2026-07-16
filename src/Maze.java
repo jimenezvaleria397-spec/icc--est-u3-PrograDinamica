@@ -23,7 +23,7 @@ public class Maze {
                 { 0, 1, 1, 0, 1, 0 },
         };
         Celda inicio = new Celda(0, 0);
-        Celda fin = new Celda(3, 3);
+        Celda fin = new Celda(4, 5);
 
         List<Celda> camino = new ArrayList<>();
 
